@@ -1,0 +1,29 @@
+schema: hugoblox/author/v1
+slug: hyoeun
+is_owner: false
+name:
+  display: Hyoeun Choi
+  given: Hyoeun
+  family: Choi
+  alternate: 최효은
+  pronouns: she/her
+postnominals: []
+status:
+  icon: ''
+role: Undergraduate Research Intern
+bio: |
+  Hyoeun is an undergraduate research intern at DAIS through the Baekma Internship
+  program (Spring 2026). Her research focuses on **explainable AI (XAI)** — comparing
+  GradCAM, LIME, SHAP, and CRAFT methods on semiconductor defect analysis images.
+  She joined the group via a collaboration with KIER's Materials Test & Analysis Lab.
+
+affiliations:
+  - name: Chungnam National University · Visiting via Baekma Internship 2026
+    url: ''
+
+links: []
+
+interests:
+  - Explainable AI (XAI)
+  - Image classification & defect analysis
+  - Computer vision for scientific imaging

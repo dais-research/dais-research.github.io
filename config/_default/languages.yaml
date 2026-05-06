@@ -1,0 +1,61 @@
+# Languages
+#   Korean (default, served at "/") and English (secondary, served at "/en/").
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+ko:
+  locale: ko-kr
+  languageName: 한국어
+  languageCode: ko-kr
+  weight: 1
+  title: 'DAIS 연구 그룹'
+  params:
+    description: '한국에너지기술연구원(KIER) DAIS 연구 그룹 — 에너지·소재 연구 데이터를
+      위한 도메인 무관 AI 방법론을 개발합니다.'
+  menus:
+    main:
+      - name: 소개
+        url: /#about
+        weight: 10
+      - name: 구성원
+        url: /#members
+        weight: 20
+      - name: 과제
+        url: /#projects
+        weight: 25
+      - name: 논문
+        url: /#publications
+        weight: 30
+      - name: 갤러리
+        url: /gallery/
+        weight: 40
+      - name: Internal 🔒
+        url: https://github.com/dais-research/wiki
+        weight: 50
+
+en:
+  locale: en-us
+  languageName: English
+  languageCode: en-us
+  weight: 2
+  title: 'DAIS Research Group'
+  params:
+    description: 'DAIS Research Group at Korea Institute of Energy Research (KIER).
+      We build domain-agnostic AI methods that turn energy and materials research
+      data into intelligence — and intelligence into systems.'
+  menus:
+    main:
+      - name: About
+        url: /en/#about
+        weight: 10
+      - name: Members
+        url: /en/#members
+        weight: 20
+      - name: Publications
+        url: /en/#publications
+        weight: 30
+      - name: Gallery
+        url: /en/gallery/
+        weight: 40
+      - name: Internal 🔒
+        url: https://github.com/dais-research/wiki
+        weight: 50

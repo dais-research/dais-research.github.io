@@ -1,0 +1,63 @@
+schema: hugoblox/author/v1
+slug: woongheelee
+is_owner: true
+name:
+  display: Woonghee Lee
+  given: Woonghee
+  family: Lee
+  alternate: 이웅희
+  pronouns: he/him
+postnominals:
+  - PhD
+status:
+  icon: ''
+role: Senior Researcher · Principal Investigator
+bio: |
+  Woonghee Lee leads the **DAIS Research Group** at the Korea Institute of
+  Energy Research (KIER). His research applies deep learning to image, signal,
+  and text data — currently focused on AI methods for energy and materials
+  research, including time-series and document analysis, robust deep models,
+  and AI agents for research workflows.
+
+affiliations:
+  - name: Energy AI & Computational Science Lab., Korea Institute of Energy Research (KIER)
+    url: https://kier-ai-cs.github.io/home/
+
+links:
+  - icon: at-symbol
+    url: mailto:woongheelee&#64;kier&#46;re&#46;kr
+    label: Email
+  - icon: brands/github
+    url: https://github.com/WoongheeLee
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/woonghee-lee-01029713700/
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-7850-9913
+  - icon: hero/globe-alt
+    url: https://woongheelee.github.io/
+    label: Personal site
+
+interests:
+  - Data-driven AI for energy & materials
+  - Time-series and signal analysis
+  - Document layout understanding
+  - Robust deep learning
+  - AI agents for research workflows
+
+experience:
+  - role: Senior Researcher · DAIS Group PI
+    org: Korea Institute of Energy Research (KIER)
+    start: 2024-08-01
+    summary: |
+      Leading data-driven AI research for energy and materials.
+      Building the DAIS Research Group from the ground up.
+
+awards:
+  - title: Outstanding PhD Thesis Award (박사학위 우수논문상)
+    awarder: Hanyang University
+    date: '2023-02-01'
+    icon: hero/trophy
+  - title: Best Paper Award (최우수논문상)
+    awarder: Korean Institute of Information Scientists and Engineers
+    date: '2016-06-01'
+    icon: hero/trophy
