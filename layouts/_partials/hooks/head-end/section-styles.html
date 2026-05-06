@@ -1,0 +1,23 @@
+<style>
+  /* Demote subsection titles inside the Publications group so 국내 학술대회 /
+     소프트웨어 저작권 read as h3-level under 연구 성과 rather than as
+     top-level sections of their own. */
+  #pub-conference .text-3xl,
+  #pub-software .text-3xl {
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+
+  /* Subtle alternating section background to delimit top-level sections
+     without drawing visible dividers. Same mode (light/dark) — just a
+     small tonal shift between adjacent sections. Sections are direct
+     children of <body>, so :nth-of-type counts among the <section>
+     siblings only (header/footer don't shift the parity). */
+  body > .hbb-section:nth-of-type(even) {
+    background-color: rgb(0 0 0 / 0.04);
+  }
+  html.dark body > .hbb-section:nth-of-type(even),
+  .dark body > .hbb-section:nth-of-type(even) {
+    background-color: rgb(255 255 255 / 0.04);
+  }
+</style>

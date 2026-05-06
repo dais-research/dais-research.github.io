@@ -16,21 +16,21 @@ ko:
       - name: 소개
         url: /#about
         weight: 10
-      - name: 구성원
-        url: /#members
-        weight: 20
       - name: 과제
         url: /#projects
-        weight: 25
-      - name: 논문
+        weight: 20
+      - name: 연구성과
         url: /#publications
         weight: 30
+      - name: 구성원
+        url: /#members
+        weight: 40
       - name: 갤러리
         url: /gallery/
-        weight: 40
+        weight: 50
       - name: Internal 🔒
         url: https://github.com/dais-research/wiki
-        weight: 50
+        weight: 60
 
 en:
   locale: en-us
@@ -47,11 +47,11 @@ en:
       - name: About
         url: /en/#about
         weight: 10
-      - name: Members
-        url: /en/#members
-        weight: 20
       - name: Publications
         url: /en/#publications
+        weight: 20
+      - name: Members
+        url: /en/#members
         weight: 30
       - name: Gallery
         url: /en/gallery/

@@ -35,10 +35,6 @@ sections:
             </figcaption>
           </figure>
         </div>
-
-        ---
-
-        *향후 학회 참석, 그룹 행사, 현장 활동에 따라 사진이 추가됩니다.*
     design:
       columns: '1'
 ---

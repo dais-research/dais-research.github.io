@@ -35,11 +35,6 @@ sections:
             </figcaption>
           </figure>
         </div>
-
-        ---
-
-        *More photos will appear here as the group attends future conferences,
-        lab events, and academic activities.*
     design:
       columns: '1'
 ---

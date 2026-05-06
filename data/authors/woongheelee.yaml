@@ -6,7 +6,6 @@ name:
   given: Woonghee
   family: Lee
   alternate: 이웅희
-  pronouns: he/him
 postnominals:
   - PhD
 status:
@@ -44,13 +43,25 @@ interests:
   - Robust deep learning
   - AI agents for research workflows
 
+education:
+  - degree: Ph.D., Computer Science & Engineering
+    institution: Hanyang University, Seoul, South Korea
+    start: '2017-03-01'
+    end: '2023-02-28'
+    icon: hero/academic-cap
+
 experience:
-  - role: Senior Researcher · DAIS Group PI
-    org: Korea Institute of Energy Research (KIER)
+  - role: Senior Researcher
+    org: Energy AI & Computational Science Lab., KIER
     start: 2024-08-01
-    summary: |
-      Leading data-driven AI research for energy and materials.
-      Building the DAIS Research Group from the ground up.
+  - role: Postdoctoral Researcher
+    org: Hanyang University ERICA
+    start: 2023-03-01
+    end: 2024-07-31
+  - role: Visiting Scholar
+    org: Kennesaw State University, USA
+    start: 2021-07-01
+    end: 2022-01-31
 
 awards:
   - title: Outstanding PhD Thesis Award (박사학위 우수논문상)
