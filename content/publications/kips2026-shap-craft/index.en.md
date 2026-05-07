@@ -78,11 +78,14 @@ whether explanations transfer across architectures.
 - 22 pristine (0 cycles) and 50 degraded (200K cycles) catalyst SEM images
   (50K magnification, 2 kV, SE) — 72 images total.
 - 80/20 train–test split with ImageNet-pretrained initialization.
-- All eight CNN/Transformer architectures we trained reached 100% test accuracy.
+- All eight CNN/Transformer architectures reached 100% accuracy on the test
+  set (5 pristine + 10 degraded images).
 - For the XAI comparison we selected three architecturally distinct models:
   **GoogLeNet** (Inception), **DenseNet121** (dense connections), and
   **MaxViT-T** (multi-axis Vision Transformer).
 - Random seed fixed at 42.
+- Without pretraining, MaxViT-T reached only 80% accuracy, confirming that
+  transfer learning is essential for this small-data regime.
 
 Because all models reach the same accuracy, model selection cannot rely on
 performance — making XAI-explanation dependence on architecture the central
