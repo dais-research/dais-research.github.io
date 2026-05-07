@@ -77,10 +77,11 @@ PEMFC는 백금(Pt) 촉매를 사용하여 수소와 산소의 전기화학 반�
 - 초기 샘플(0 cycles) 22장, 열화 샘플(200K cycles) 50장의 촉매 SEM 이미지 (50K 배율,
   2 kV, SE), 총 72장.
 - 8:2 비율로 학습/테스트 분할, ImageNet 사전학습 가중치를 초기값으로 사용.
-- 8종 CNN/Transformer 모델 학습 결과 모두 100% 분류 정확도 달성.
+- 8종 CNN/Transformer 모델 학습 결과, 테스트셋(초기 5장 + 열화 10장)에서 모두 100% 분류 정확도 달성.
 - 아키텍처 유형이 상이한 3종 모델 선정: **GoogLeNet** (Inception 모듈),
   **DenseNet121** (Dense connection), **MaxViT-T** (Multi-axis Vision Transformer).
 - Random seed 42로 고정.
+- 사전학습 없이 학습 시 MaxViT-T는 80%에 그쳐, 소규모 데이터에서 전이 학습이 필수적임을 확인하였다.
 
 전 모델이 100% 정확도를 달성하여 성능 차이로 모델을 선택할 수 없으므로, XAI 설명의
 모델 의존성 비교가 핵심이 된다.
