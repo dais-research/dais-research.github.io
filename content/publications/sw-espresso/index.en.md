@@ -1,8 +1,8 @@
 ---
 title: 'ESPRESSO: A Visualization Tool for Labeling Objects in Research PDFs'
 authors:
-  - woongheelee
-  - Je-hyun Lee
+  - Woonghee Lee
+  - Jehyun Lee
 date: '2024-11-25'
 publishDate: '2024-11-25'
 publication_types:

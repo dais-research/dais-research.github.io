@@ -2,6 +2,9 @@
 title: '인공지능 기반 기술동향 뉴스 수집·분석·보고서 생성 시스템'
 authors:
   - 이웅희
+  - 이정인
+  - 유란
+  - 김승규
 date: '2026-04-20'
 publishDate: '2026-04-20'
 publication_types:

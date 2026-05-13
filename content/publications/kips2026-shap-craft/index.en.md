@@ -5,7 +5,7 @@ authors:
   - Woonjae Ruh
   - Yun Sik Kang
   - Byeongseon An
-  - woongheelee
+  - Woonghee Lee
 author_notes:
   - 'First author'
   - ''

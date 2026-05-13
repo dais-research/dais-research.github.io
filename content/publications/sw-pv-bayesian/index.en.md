@@ -1,13 +1,13 @@
 ---
 title: 'Automated Photovoltaic Parameter Extraction System Using Physics-Guided Bayesian Optimization'
 authors:
-  - woongheelee
+  - Woonghee Lee
   - Jihye Gwak
-  - Yongjin Kim
-  - Hyeongwoo Kim
-  - Sanghee Lee
-  - Seunghee Lee
-  - Je-hyun Lee
+  - Yong Jin Kim
+  - Hyungwoo Kim
+  - Sang Hee Lee
+  - Seung Hee Lee
+  - Jehyun Lee
   - Yunae Cho
 date: '2025-12-03'
 publishDate: '2025-12-03'

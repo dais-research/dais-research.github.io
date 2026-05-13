@@ -1,9 +1,9 @@
 ---
 title: 'CREMA: Contextual Reconstruction and Extraction of Multimodal Assets from academic papers'
 authors:
-  - woongheelee
-  - Je-hyun Lee
-  - Changsu Lee
+  - Woonghee Lee
+  - Jehyun Lee
+  - Chang-soo Lee
   - Kwanyoung Park
 date: '2025-12-03'
 publishDate: '2025-12-03'

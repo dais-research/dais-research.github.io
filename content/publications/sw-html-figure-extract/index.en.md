@@ -1,7 +1,7 @@
 ---
 title: 'Publisher-Adaptive HTML Parsing System for Figure and Caption Extraction from Scientific Papers'
 authors:
-  - woongheelee
+  - Woonghee Lee
   - Inseop Kim
   - Junhyung Lee
   - Chanwoo Lee

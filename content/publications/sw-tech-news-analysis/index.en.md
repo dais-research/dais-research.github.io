@@ -1,7 +1,10 @@
 ---
 title: 'AI-Based Technology-Trend News Collection, Analysis, and Report Generation System'
 authors:
-  - woongheelee
+  - Woonghee Lee
+  - Jeong In Lee
+  - Ran Yoo
+  - Seungkyu Kim
 date: '2026-04-20'
 publishDate: '2026-04-20'
 publication_types:
