@@ -68,6 +68,9 @@ Desktop.ini
 *.log
 npm-debug.log*
 
+# Backup files (e.g., produced when re-compressing or transforming images)
+*.bak
+
 # ============================================================================
 # Original Photo Sources (kept locally; site uses WebP under assets/media/)
 # ============================================================================
