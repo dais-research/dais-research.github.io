@@ -38,6 +38,47 @@ sections:
       columns: '1'
 
   # ─────────────────────────────────────────────────────────────────────────
+  # AWARDS / RECOGNITION
+  # ─────────────────────────────────────────────────────────────────────────
+  - block: markdown
+    id: awards
+    content:
+      title: '최근 수상'
+      subtitle: ''
+      text: |-
+        <div class="grid gap-8 md:grid-cols-2 mt-6 items-center">
+          <div>
+            <figure>
+              <img src="/media/gallery/ask2026-award.webp"
+                   alt="ASK 2026 학회장에서 동상 수여 후 기념 촬영 — 최효은 학생과 이웅희 PI"
+                   class="rounded-lg shadow-md w-full" />
+              <figcaption class="text-xs text-center mt-2 opacity-75">
+                ASK 2026 시상식 후
+              </figcaption>
+            </figure>
+          </div>
+          <div>
+            <p class="text-xl font-semibold mb-3">🏆 동상 (Bronze Award)</p>
+            <p class="mb-2">
+              <strong>학부생·고등학생 논문경진대회</strong><br/>
+              ASK 2026 (한국정보처리학회 연차 학술발표대회)<br/>
+              <span class="opacity-75">2026년 5월 21일, 강릉</span>
+            </p>
+            <p class="mb-2">
+              수상자: <strong>최효은</strong> (충남대학교, 학부 인턴)
+            </p>
+            <p class="text-sm opacity-90">
+              논문: <em>PEMFC 촉매 SEM 이미지 열화 분류에 대한 SHAP 및 CRAFT의 모델 구조별 비교 분석</em>
+            </p>
+            <p class="mt-3">
+              <a href="/publications/kips2026-shap-craft/" class="underline">논문 자세히 보기 →</a>
+            </p>
+          </div>
+        </div>
+    design:
+      columns: '1'
+
+  # ─────────────────────────────────────────────────────────────────────────
   # PROJECTS
   # ─────────────────────────────────────────────────────────────────────────
   - block: markdown
@@ -151,24 +192,49 @@ sections:
   - block: markdown
     content:
       title: '갤러리'
-      subtitle: 'DASFAA 2026 · 제주'
+      subtitle: ''
       text: |-
-        <div class="grid gap-4 md:grid-cols-2 mt-6">
-          <a href="/gallery/">
-            <img src="/media/gallery/dasfaa2026-pi.webp"
-                 alt="DASFAA 2026 학회장"
-                 class="rounded-lg shadow-md object-cover w-full h-64" />
-          </a>
-          <a href="/gallery/">
-            <img src="/media/gallery/dasfaa2026-reception.webp"
-                 alt="DASFAA 2026 리셉션"
-                 class="rounded-lg shadow-md object-cover w-full h-64" />
-          </a>
+        ### ASK 2026 — 강릉 · 2026년 5월
+
+        <div class="grid gap-4 md:grid-cols-2 mt-4 mb-10">
+          <figure>
+            <img src="/media/gallery/ask2026-award.webp"
+                 alt="ASK 2026 학회장에서 동상 수여 후 기념 촬영"
+                 class="rounded-lg shadow-md w-full bg-white" />
+            <figcaption class="text-xs text-center mt-2 opacity-75">
+              ASK 2026 시상식 후
+            </figcaption>
+          </figure>
+          <figure>
+            <img src="/media/gallery/ask2026-certificate.webp"
+                 alt="ASK 2026 학부생 논문경진대회 동상 상장"
+                 class="rounded-lg shadow-md w-full bg-white" />
+            <figcaption class="text-xs text-center mt-2 opacity-75">
+              학부생·고등학생 논문경진대회 동상 상장
+            </figcaption>
+          </figure>
         </div>
 
-        <p class="mt-4 text-center">
-          <a href="/gallery/" class="underline">갤러리 전체 보기 →</a>
-        </p>
+        ### DASFAA 2026 — 제주 · 2026년 4월
+
+        <div class="grid gap-4 md:grid-cols-2 mt-4">
+          <figure>
+            <img src="/media/gallery/dasfaa2026-pi.webp"
+                 alt="DASFAA 2026 학회장 입구의 이웅희 PI"
+                 class="rounded-lg shadow-md w-full" />
+            <figcaption class="text-xs text-center mt-2 opacity-75">
+              DASFAA 2026 환영 배너 앞에서
+            </figcaption>
+          </figure>
+          <figure>
+            <img src="/media/gallery/dasfaa2026-reception.webp"
+                 alt="DASFAA 2026 야외 리셉션"
+                 class="rounded-lg shadow-md w-full" />
+            <figcaption class="text-xs text-center mt-2 opacity-75">
+              학회 리셉션 현장
+            </figcaption>
+          </figure>
+        </div>
     design:
       columns: '1'
 

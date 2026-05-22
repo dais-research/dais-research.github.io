@@ -43,6 +43,47 @@ sections:
       columns: '1'
 
   # ─────────────────────────────────────────────────────────────────────────
+  # AWARDS / RECOGNITION
+  # ─────────────────────────────────────────────────────────────────────────
+  - block: markdown
+    id: awards
+    content:
+      title: 'Recent Award'
+      subtitle: ''
+      text: |-
+        <div class="grid gap-8 md:grid-cols-2 mt-6 items-center">
+          <div>
+            <figure>
+              <img src="/media/gallery/ask2026-award.webp"
+                   alt="Hyoeun Choi and Woonghee Lee at the ASK 2026 award ceremony"
+                   class="rounded-lg shadow-md w-full" />
+              <figcaption class="text-xs text-center mt-2 opacity-75">
+                After the ASK 2026 award ceremony
+              </figcaption>
+            </figure>
+          </div>
+          <div>
+            <p class="text-xl font-semibold mb-3">🏆 Bronze Award</p>
+            <p class="mb-2">
+              <strong>Undergraduate / High-School Paper Competition</strong><br/>
+              ASK 2026 (Annual Symposium of the Korea Information Processing Society)<br/>
+              <span class="opacity-75">May 21, 2026, Gangneung, South Korea</span>
+            </p>
+            <p class="mb-2">
+              Awardee: <strong>Hyoeun Choi</strong> (Chungnam National University, research intern)
+            </p>
+            <p class="text-sm opacity-90">
+              Paper: <em>Comparing SHAP and CRAFT Across Architectures for PEMFC SEM Images</em>
+            </p>
+            <p class="mt-3">
+              <a href="/publications/kips2026-shap-craft/" class="underline">View paper →</a>
+            </p>
+          </div>
+        </div>
+    design:
+      columns: '1'
+
+  # ─────────────────────────────────────────────────────────────────────────
   # PUBLICATIONS (placeholder — populated as work appears)
   # ─────────────────────────────────────────────────────────────────────────
   - block: markdown
@@ -133,24 +174,49 @@ sections:
   - block: markdown
     content:
       title: 'Gallery'
-      subtitle: 'DASFAA 2026 · Jeju Island, South Korea'
+      subtitle: ''
       text: |-
-        <div class="grid gap-4 md:grid-cols-2 mt-6">
-          <a href="/gallery/">
-            <img src="/media/gallery/dasfaa2026-pi.webp"
-                 alt="DASFAA 2026 conference"
-                 class="rounded-lg shadow-md object-cover w-full h-64" />
-          </a>
-          <a href="/gallery/">
-            <img src="/media/gallery/dasfaa2026-reception.webp"
-                 alt="DASFAA 2026 reception"
-                 class="rounded-lg shadow-md object-cover w-full h-64" />
-          </a>
+        ### ASK 2026 — Gangneung · May 2026
+
+        <div class="grid gap-4 md:grid-cols-2 mt-4 mb-10">
+          <figure>
+            <img src="/media/gallery/ask2026-award.webp"
+                 alt="ASK 2026 award ceremony"
+                 class="rounded-lg shadow-md w-full bg-white" />
+            <figcaption class="text-xs text-center mt-2 opacity-75">
+              After the ASK 2026 award ceremony
+            </figcaption>
+          </figure>
+          <figure>
+            <img src="/media/gallery/ask2026-certificate.webp"
+                 alt="ASK 2026 Bronze Award certificate"
+                 class="rounded-lg shadow-md w-full bg-white" />
+            <figcaption class="text-xs text-center mt-2 opacity-75">
+              Bronze Award certificate — Undergraduate / High-School Paper Competition
+            </figcaption>
+          </figure>
         </div>
 
-        <p class="mt-4 text-center">
-          <a href="/gallery/" class="underline">View full gallery →</a>
-        </p>
+        ### DASFAA 2026 — Jeju Island · April 2026
+
+        <div class="grid gap-4 md:grid-cols-2 mt-4">
+          <figure>
+            <img src="/media/gallery/dasfaa2026-pi.webp"
+                 alt="Woonghee Lee at DASFAA 2026 welcome banner"
+                 class="rounded-lg shadow-md w-full" />
+            <figcaption class="text-xs text-center mt-2 opacity-75">
+              At the DASFAA 2026 welcome banner
+            </figcaption>
+          </figure>
+          <figure>
+            <img src="/media/gallery/dasfaa2026-reception.webp"
+                 alt="DAIS at the DASFAA 2026 outdoor reception"
+                 class="rounded-lg shadow-md w-full" />
+            <figcaption class="text-xs text-center mt-2 opacity-75">
+              DAIS at the conference reception
+            </figcaption>
+          </figure>
+        </div>
     design:
       columns: '1'
 

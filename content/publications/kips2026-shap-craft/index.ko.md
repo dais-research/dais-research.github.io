@@ -49,6 +49,25 @@ show_related: false
 
 > 🏆 **학부생·고등학생 논문경진대회 동상** — ASK 2026 (한국정보처리학회 연차 학술발표대회)
 
+<div class="grid gap-6 md:grid-cols-2 mt-6 mb-8">
+  <figure>
+    <img src="/media/gallery/ask2026-award.webp"
+         alt="ASK 2026 학회장에서 동상 수여 후 기념 촬영"
+         class="rounded-lg shadow-md w-full" />
+    <figcaption class="text-sm text-center mt-2 opacity-75">
+      ASK 2026 학회장에서 — (좌) 최효은 학부 인턴, (우) 이웅희 PI
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="/media/gallery/ask2026-certificate.webp"
+         alt="ASK 2026 학부생 논문경진대회 동상 상장"
+         class="rounded-lg shadow-md w-full bg-white" />
+    <figcaption class="text-sm text-center mt-2 opacity-75">
+      학부생·고등학생 논문경진대회 동상 상장
+    </figcaption>
+  </figure>
+</div>
+
 ## 연구 배경
 
 신재생에너지 분야에서 인공지능을 활용한 소재 개발 가속화가 활발히 이루어지고 있다.

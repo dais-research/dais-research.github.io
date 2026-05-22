@@ -75,9 +75,5 @@ npm-debug.log*
 # Original Photo Sources (kept locally; site uses WebP under assets/media/)
 # ============================================================================
 
-/*.JPG
-/*.jpg
-/*.jpeg
-/*.PNG
-/*.png
+/originals/
 

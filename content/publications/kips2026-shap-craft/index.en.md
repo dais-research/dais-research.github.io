@@ -54,6 +54,26 @@ show_related: false
 
 > 🏆 **Bronze Award, Undergraduate / High-School Paper Competition** — ASK 2026 (Annual Symposium of the Korea Information Processing Society)
 
+<div class="grid gap-6 md:grid-cols-2 mt-6 mb-8">
+  <figure>
+    <img src="/media/gallery/ask2026-award.webp"
+         alt="At the ASK 2026 venue after the award ceremony"
+         class="rounded-lg shadow-md w-full" />
+    <figcaption class="text-sm text-center mt-2 opacity-75">
+      At the ASK 2026 venue — (left) Hyoeun Choi, undergraduate intern;
+      (right) Woonghee Lee, PI
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="/media/gallery/ask2026-certificate.webp"
+         alt="ASK 2026 Bronze Award certificate"
+         class="rounded-lg shadow-md w-full bg-white" />
+    <figcaption class="text-sm text-center mt-2 opacity-75">
+      Bronze Award certificate — Undergraduate / High-School Paper Competition
+    </figcaption>
+  </figure>
+</div>
+
 ## Background
 
 AI-driven materials development is increasingly active in renewable-energy
