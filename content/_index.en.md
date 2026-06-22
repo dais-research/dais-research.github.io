@@ -146,18 +146,20 @@ sections:
           </div>
         </div>
 
-        ### Undergraduate Researchers
+        ### Alumni
 
         <div class="grid gap-8 md:grid-cols-3 mt-6">
           <div class="text-center">
             <img src="/media/authors/hyoeun.webp" alt="Hyoeun Choi"
                  class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
             <h4 class="text-xl font-semibold mb-1">Hyoeun Choi</h4>
-            <p class="text-sm opacity-75 mb-2">Research Intern</p>
+            <p class="text-sm opacity-75 mb-2">Research Intern (2026-03 – 2026-06)</p>
             <p class="text-sm">
               Chungnam National University<br/>
-              Spring 2026<br/>
               <span class="opacity-75">Computer vision · XAI</span>
+            </p>
+            <p class="text-sm mt-2 opacity-75">
+              Bronze Award, ASK 2026 Undergraduate / High-School Paper Competition
             </p>
             <p class="text-sm mt-2">
               <a href="https://github.com/hekengi" target="_blank" rel="noopener">GitHub ↗</a>

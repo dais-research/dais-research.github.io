@@ -163,19 +163,21 @@ sections:
           </div>
         </div>
 
-        ### 학부 연구생
+        ### 이전 구성원 (Alumni)
 
         <div class="grid gap-8 md:grid-cols-3 mt-6">
           <div class="text-center">
             <img src="/media/authors/hyoeun.webp" alt="최효은"
                  class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
             <h4 class="text-xl font-semibold mb-1">최효은</h4>
-            <p class="text-sm opacity-75 mb-2">학부 인턴</p>
+            <p class="text-sm opacity-75 mb-2">학부 인턴 (2026-03 ~ 2026-06)</p>
             <p class="text-sm">
               충남대학교<br/>
               컴퓨터융합학부<br/>
-              2026년 1학기<br/>
               <span class="opacity-75">컴퓨터 비전 · XAI</span>
+            </p>
+            <p class="text-sm mt-2 opacity-75">
+              ASK 2026 학부생·고등학생 논문경진대회 동상 수상
             </p>
             <p class="text-sm mt-2">
               <a href="https://github.com/hekengi" target="_blank" rel="noopener">GitHub ↗</a>
