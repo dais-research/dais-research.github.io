@@ -146,6 +146,40 @@ sections:
           </div>
         </div>
 
+        ### Undergraduate Interns
+
+        <div class="grid gap-8 md:grid-cols-2 max-w-4xl mx-auto mt-6 mb-12">
+          <div class="text-center">
+            <img src="/media/authors/yunyeong.webp" alt=""
+                 class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
+            <h4 class="text-xl font-semibold mb-1">Yunyeong Ju</h4>
+            <p class="text-sm opacity-75 mb-2">Research Intern (2026-07 – 2026-12)</p>
+            <p class="text-sm">
+              Korea University of Technology and Education (KOREATECH)<br/>
+              <span class="opacity-75">Computer Vision</span>
+            </p>
+            <p class="text-sm mt-2">
+              <a href="https://github.com/dragonju02" target="_blank" rel="noopener"
+                 class="hover:underline">GitHub ↗</a>
+            </p>
+          </div>
+
+          <div class="text-center">
+            <img src="/media/authors/dongwan.webp" alt=""
+                 class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
+            <h4 class="text-xl font-semibold mb-1">Dongwan Yu</h4>
+            <p class="text-sm opacity-75 mb-2">Research Intern (2026-07 – 2026-12)</p>
+            <p class="text-sm">
+              Chungnam National University<br/>
+              <span class="opacity-75">LLM Architecture · Machine Unlearning</span>
+            </p>
+            <p class="text-sm mt-2">
+              <a href="https://github.com/peradura" target="_blank" rel="noopener"
+                 class="hover:underline">GitHub ↗</a>
+            </p>
+          </div>
+        </div>
+
         ### Alumni
 
         <div class="grid gap-8 md:grid-cols-3 mt-6">
