@@ -163,6 +163,24 @@ sections:
           </div>
         </div>
 
+### 학부 인턴 (Undergraduate Interns)
+
+        <div class="grid gap-8 md:grid-cols-3 mt-6 mb-12">
+          <div class="text-center">
+            <img src="/media/authors/yunyeong.webp" alt="주윤영"
+                 class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
+            <h4 class="text-xl font-semibold mb-1">주윤영</h4>
+            <p class="text-sm opacity-75 mb-2">학부 인턴</p>
+            <p class="text-sm">
+              한국기술교육대학교<br/>
+              컴퓨터공학부
+            </p>
+            <p class="text-sm mt-2">
+              <a href="mailto:wndbsdud522@gmail.com">메일</a>
+            </p>
+          </div>
+        </div>
+
         ### 이전 구성원 (Alumni)
 
         <div class="grid gap-8 md:grid-cols-3 mt-6">
