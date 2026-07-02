@@ -165,20 +165,20 @@ sections:
 
         ### 학부 인턴 (Undergraduate Interns)
 
-        <div class="grid gap-8 md:grid-cols-2 max-w-4xl mx-auto mt-6S">
+        <div class="grid gap-8 md:grid-cols-2 max-w-4xl mx-auto mt-6 mb-12">
           <div class="text-center">
-            <img src="/media/authors/yunyeong.webp" alt=""
+            <img src="/media/authors/yunyeong.webp" alt="주윤영"
                  class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
             <h4 class="text-xl font-semibold mb-1">주윤영</h4>
             <p class="text-sm opacity-75 mb-2">학부 인턴 (2026-07 ~ 2026-12)</p>
             <p class="text-sm">
               한국기술교육대학교<br/>
               컴퓨터공학부<br/>
-              <span class="opacity-75">컴퓨터비전</span>
+              <span class="opacity-75">컴퓨터 비전</span>
             </p>
             <p class="text-sm mt-2">
               <a href="https://github.com/dragonju02" target="_blank" rel="noopener"
-              class= "hover:underline">Github ↗</a>
+                 class="hover:underline">GitHub ↗</a>
             </p>
           </div>
 
@@ -194,7 +194,7 @@ sections:
             </p>
             <p class="text-sm mt-2">
               <a href="https://github.com/peradura" target="_blank" rel="noopener"
-              class= "hover:underline">Github ↗</a>
+                 class="hover:underline">GitHub ↗</a>
             </p>
           </div>
         </div>
