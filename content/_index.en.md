@@ -148,9 +148,9 @@ sections:
 
         ### Undergraduate Interns
 
-        <div class="grid gap-8 md:grid-cols-2 max-w-4xl mx-auto mt-6 mb-12">
+        <div class="grid gap-8 md:grid-cols-3 mt-6 mb-12">
           <div class="text-center">
-            <img src="/media/authors/yunyeong.webp" alt=""
+            <img src="/media/authors/yunyeong.webp" alt="Yunyeong Ju"
                  class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
             <h4 class="text-xl font-semibold mb-1">Yunyeong Ju</h4>
             <p class="text-sm opacity-75 mb-2">Research Intern (2026-07 – 2026-12)</p>
@@ -165,9 +165,9 @@ sections:
           </div>
 
           <div class="text-center">
-            <img src="/media/authors/dongwan.webp" alt=""
+            <img src="/media/authors/dongwan.webp" alt="Dongwan Yoo"
                  class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
-            <h4 class="text-xl font-semibold mb-1">Dongwan Yu</h4>
+            <h4 class="text-xl font-semibold mb-1">Dongwan Yoo</h4>
             <p class="text-sm opacity-75 mb-2">Research Intern (2026-07 – 2026-12)</p>
             <p class="text-sm">
               Chungnam National University<br/>
