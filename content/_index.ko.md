@@ -287,7 +287,13 @@ sections:
       text: |-
         대전광역시 유성구 가정로 152 (34129)
 
+        <p>
         <a href="mailto:woongheelee&#64;kier&#46;re&#46;kr" class="inline-flex items-center gap-1 underline">메일 보내기 ↗</a>
+        <span class="mx-2 opacity-60" aria-hidden="true">·</span>
+        <a href="https://calendar.google.com/calendar/embed?src=gongdol2pooh%40gmail.com&ctz=Asia%2FSeoul" target="_blank" rel="noopener" class="inline-flex items-center gap-1 underline">미팅·논의 가능 시간대 보기 ↗</a>
+        </p>
+
+        미팅이나 공동연구 논의가 필요하시면 메일로 연락해 주세요.
     design:
       columns: '1'
 ---

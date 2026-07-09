@@ -267,7 +267,13 @@ sections:
       text: |-
         152 Gajeong-ro, Yuseong-gu, Daejeon 34129, South Korea
 
+        <p>
         <a href="mailto:woongheelee&#64;kier&#46;re&#46;kr" class="inline-flex items-center gap-1 underline">Send email ↗</a>
+        <span class="mx-2 opacity-60" aria-hidden="true">·</span>
+        <a href="https://calendar.google.com/calendar/embed?src=gongdol2pooh%40gmail.com&ctz=Asia%2FSeoul" target="_blank" rel="noopener" class="inline-flex items-center gap-1 underline">View meeting availability ↗</a>
+        </p>
+
+        For meetings or collaboration discussions, please contact us by email.
     design:
       columns: '1'
 ---
