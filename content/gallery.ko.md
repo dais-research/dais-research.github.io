@@ -9,6 +9,20 @@ sections:
       title: '갤러리'
       subtitle: '학회, 그룹 활동, 현장 사진'
       text: |-
+        ## KDD 2026 — 제주
+        *2026년 8월 9–13일*
+
+        DAIS 연구 그룹 구성원들이 KDD 2026에 함께 참가했습니다.
+
+        <figure class="mt-6">
+          <img src="/media/gallery/kdd2026-group.webp"
+               alt="KDD 2026에 참가한 이웅희, 유동완, 주윤영"
+               class="rounded-lg shadow-md w-full" />
+          <figcaption class="text-sm text-center mt-2 opacity-75">
+            (왼쪽부터) 이웅희, 유동완, 주윤영
+          </figcaption>
+        </figure>
+
         ## ASK 2026 — 강릉
         *2026년 5월 21–23일*
 

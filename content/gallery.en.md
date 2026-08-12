@@ -9,6 +9,20 @@ sections:
       title: 'Gallery'
       subtitle: 'Conferences, lab life, and field activities'
       text: |-
+        ## KDD 2026 — Jeju Island, South Korea
+        *August 9–13, 2026*
+
+        DAIS group members attended KDD 2026 together.
+
+        <figure class="mt-6">
+          <img src="/media/gallery/kdd2026-group.webp"
+               alt="Woonghee Lee, Dongwan Yoo, and Yoonyoung Joo at KDD 2026"
+               class="rounded-lg shadow-md w-full" />
+          <figcaption class="text-sm text-center mt-2 opacity-75">
+            From left: Woonghee Lee, Dongwan Yoo, and Yoonyoung Joo
+          </figcaption>
+        </figure>
+
         ## ASK 2026 — Gangneung, South Korea
         *May 21–23, 2026*
 
