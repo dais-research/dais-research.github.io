@@ -212,47 +212,20 @@ sections:
       title: 'Gallery'
       subtitle: ''
       text: |-
-        ### ASK 2026 — Gangneung · May 2026
+        ### KDD 2026 — Jeju Island · August 2026
 
-        <div class="grid gap-4 md:grid-cols-2 mt-4 mb-10">
-          <figure>
-            <img src="/media/gallery/ask2026-award.webp"
-                 alt="ASK 2026 award ceremony"
-                 class="rounded-lg shadow-md w-full bg-white" />
-            <figcaption class="text-xs text-center mt-2 opacity-75">
-              After the ASK 2026 award ceremony
-            </figcaption>
-          </figure>
-          <figure>
-            <img src="/media/gallery/ask2026-certificate.webp"
-                 alt="ASK 2026 Bronze Award certificate"
-                 class="rounded-lg shadow-md w-full bg-white" />
-            <figcaption class="text-xs text-center mt-2 opacity-75">
-              Bronze Award certificate — Undergraduate / High-School Paper Competition
-            </figcaption>
-          </figure>
-        </div>
+        <figure class="mt-4">
+          <img src="/media/gallery/kdd2026-group.webp"
+               alt="Woonghee Lee, Dongwan Yoo, and Yoonyoung Joo at KDD 2026"
+               class="rounded-lg shadow-md w-full" />
+          <figcaption class="text-xs text-center mt-2 opacity-75">
+            From left: Woonghee Lee, Dongwan Yoo, and Yoonyoung Joo
+          </figcaption>
+        </figure>
 
-        ### DASFAA 2026 — Jeju Island · April 2026
-
-        <div class="grid gap-4 md:grid-cols-2 mt-4">
-          <figure>
-            <img src="/media/gallery/dasfaa2026-pi.webp"
-                 alt="Woonghee Lee at DASFAA 2026 welcome banner"
-                 class="rounded-lg shadow-md w-full" />
-            <figcaption class="text-xs text-center mt-2 opacity-75">
-              At the DASFAA 2026 welcome banner
-            </figcaption>
-          </figure>
-          <figure>
-            <img src="/media/gallery/dasfaa2026-reception.webp"
-                 alt="DAIS at the DASFAA 2026 outdoor reception"
-                 class="rounded-lg shadow-md w-full" />
-            <figcaption class="text-xs text-center mt-2 opacity-75">
-              DAIS at the conference reception
-            </figcaption>
-          </figure>
-        </div>
+        <p class="mt-6 text-right">
+          <a href="/en/gallery/" class="underline">View the full gallery →</a>
+        </p>
     design:
       columns: '1'
 
