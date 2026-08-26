@@ -14,11 +14,16 @@ sections:
       title: 'DAIS Research Group'
       subtitle: 'Data · Analysis · Intelligence · System'
       text: |-
-        The **DAIS Research Group** is a research group within the Energy AI &
-        Computational Science Lab. at the Korea Institute of Energy Research (KIER).
-        We develop AI methods for the heterogeneous data that arises in energy
-        research — aiming for tools and pipelines that can be reused across projects
-        rather than tied to a single domain or dataset.
+        The **DAIS Research Group** is an AI and data science research group within
+        the Energy AI & Computational Science Laboratory at the Korea Institute of
+        Energy Research (KIER). We use complex, real-world data from energy and
+        scientific research as both a starting point and a testbed for studying
+        generalizable AI methodologies, including machine learning, scientific
+        document understanding, knowledge-based reasoning, and AI agents. Rather
+        than building one-off solutions for individual projects, we develop models,
+        evaluation methods, and data-processing pipelines that can transfer across
+        scientific and industrial domains, connecting methodological advances with
+        academic contributions and practical research tools.
 
         ### Data → Analysis → Intelligence → System
 
