@@ -7,7 +7,7 @@ publishDate: '2026-08-20'
 publication_types:
   - article-magazine
 publication: 'The Window of KAST, Summer 2026 · Policy magazine of the Korean Academy of Science and Technology'
-publication_short: 'The Window of KAST, Summer 2026'
+publication_short: 'The Window of KAST, Summer 2026 (in Korean)'
 featured: true
 
 links:
