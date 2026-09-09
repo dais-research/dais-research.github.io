@@ -138,6 +138,18 @@ sections:
     design:
       view: citation
 
+  - block: collection
+    id: pub-media
+    content:
+      title: '기고·언론'
+      filters:
+        folders:
+          - publications
+        publication_type: 'article-magazine'
+        exclude_featured: false
+    design:
+      view: citation
+
   # ─────────────────────────────────────────────────────────────────────────
   # MEMBERS
   # ─────────────────────────────────────────────────────────────────────────
