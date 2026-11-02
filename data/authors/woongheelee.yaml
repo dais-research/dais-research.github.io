@@ -19,7 +19,7 @@ bio: |
   and AI agents for research workflows.
 
 affiliations:
-  - name: Energy AI & Computational Science Lab., Korea Institute of Energy Research (KIER)
+  - name: Energy Platform Research Lab., Korea Institute of Energy Research (KIER)
     url: https://kier-ai-cs.github.io/home/
 
 links:
@@ -52,7 +52,7 @@ education:
 
 experience:
   - role: Senior Researcher
-    org: Energy AI & Computational Science Lab., KIER
+    org: Energy Platform Research Lab., KIER
     start: 2024-08-01
   - role: Postdoctoral Researcher
     org: Hanyang University ERICA

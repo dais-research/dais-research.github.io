@@ -15,7 +15,7 @@ sections:
       subtitle: 'Data · Analysis · Intelligence · System'
       text: |-
         The **DAIS Research Group** is an AI and data science research group within
-        the Energy AI & Computational Science Laboratory at the Korea Institute of
+        the Energy Platform Research Laboratory at the Korea Institute of
         Energy Research (KIER). We use complex, real-world data from energy and
         scientific research as both a starting point and a testbed for studying
         generalizable AI methodologies, including machine learning, scientific
@@ -154,7 +154,7 @@ sections:
             <h4 class="text-xl font-semibold mb-1">Woonghee Lee, Ph.D.</h4>
             <p class="text-sm opacity-75 mb-2">Senior Researcher</p>
             <p class="text-sm">
-              Energy AI &amp; Computational Science Lab., KIER
+              Energy Platform Research Lab., KIER
             </p>
             <p class="text-sm mt-2">
               <a href="mailto:woongheelee&#64;kier&#46;re&#46;kr">Email</a> ·

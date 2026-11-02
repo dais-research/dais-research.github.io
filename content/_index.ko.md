@@ -14,7 +14,7 @@ sections:
       title: 'DAIS 연구 그룹'
       subtitle: 'Data · Analysis · Intelligence · System'
       text: |-
-        **DAIS 연구 그룹**은 한국에너지기술연구원(KIER) 에너지AI·계산과학실에 기반을 둔
+        **DAIS 연구 그룹**은 한국에너지기술연구원(KIER) 에너지플랫폼연구실에 기반을 둔
         AI·데이터사이언스 연구 그룹입니다. 에너지·과학기술 연구에서 발생하는 복잡한 실제
         데이터를 연구의 출발점이자 검증 환경으로 삼아, 머신러닝, 과학문서 이해, 지식 기반
         추론, AI 에이전트 등 일반화 가능한 AI 방법론을 연구합니다. 특정 과제에만 적용되는
@@ -169,7 +169,7 @@ sections:
             <p class="text-sm opacity-75 mb-2">선임연구원</p>
             <p class="text-sm">
               한국에너지기술연구원<br/>
-              에너지AI·계산과학실
+              에너지플랫폼연구실
             </p>
             <p class="text-sm mt-2">
               <a href="mailto:woongheelee&#64;kier&#46;re&#46;kr">메일</a> ·
