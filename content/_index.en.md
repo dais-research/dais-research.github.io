@@ -216,6 +216,9 @@ sections:
               Korea University of Technology and Education (KOREATECH)<br/>
               <span class="opacity-75">Computer Vision</span>
             </p>
+            <p class="text-sm mt-2 opacity-75">
+              Industry-Academia-Research Collaboration Excellence Award, ACK 2026
+            </p>
             <p class="text-sm mt-2">
               <a href="https://github.com/dragonju02" target="_blank" rel="noopener"
                  class="hover:underline">GitHub ↗</a>

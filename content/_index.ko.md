@@ -246,6 +246,9 @@ sections:
               컴퓨터공학부<br/>
               <span class="opacity-75">컴퓨터 비전</span>
             </p>
+            <p class="text-sm mt-2 opacity-75">
+              ACK 2026 산학연협동우수상 수상
+            </p>
             <p class="text-sm mt-2">
               <a href="https://github.com/dragonju02" target="_blank" rel="noopener"
                  class="hover:underline">GitHub ↗</a>
