@@ -30,7 +30,7 @@ summary: |-
 
 tags:
   - AI agents
-  - Research automation
+  - AI reliability
   - Trustworthiness
   - Reproducibility
   - Science policy

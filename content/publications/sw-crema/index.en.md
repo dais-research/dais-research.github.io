@@ -16,15 +16,15 @@ featured: true
 abstract: |-
   System that extracts visual elements (figures, tables, equations) from academic
   papers, translates the body text, and reconstructs the document while preserving
-  the original layout and visual elements — aimed at improving the efficiency of
-  paper consumption for non-English-speaking researchers.
+  the original layout and visual elements, so that non-English-speaking researchers
+  can read a paper with its figures and tables where the authors put them.
 
 summary: |-
   Academic paper visual-element extraction with translation and layout reconstruction.
 
 tags:
   - Academic paper parsing
-  - Translation automation
+  - Document translation
   - Layout analysis
 
 show_related: false

@@ -16,8 +16,9 @@ featured: true
 abstract: |-
   System that automatically collects global energy- and technology-related news,
   classifies, summarizes, and clusters articles, and generates periodic reports.
-  Uses active learning and NLP to reduce analyst curation overhead and to support
-  consistent trend monitoring. Registered to Korea Institute of Energy Research
+  Active learning updates the classifier so that classification accuracy holds with
+  few labels. Contracted deliverable of the clean-hydrogen policy-support project.
+  Registered to Korea Institute of Energy Research
   as a work-for-hire (creation 2026-02-25, registration 2026-04-20).
 
 summary: |-
@@ -29,7 +30,7 @@ tags:
   - Text classification
   - News analysis
   - Active learning
-  - Automated reporting
+  - Document summarization
 
 show_related: false
 ---

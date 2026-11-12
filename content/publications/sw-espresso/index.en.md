@@ -24,7 +24,7 @@ tags:
   - PDF visualization
   - Object labeling
   - Data annotation
-  - Research automation
+  - Document structure analysis
 
 show_related: false
 ---
