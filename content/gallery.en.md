@@ -86,8 +86,7 @@ sections:
         *April 27–30, 2026 · Jeju Shinhwa World*
 
         DAIS attended the 31st International Conference on Database Systems for
-        Advanced Applications (DASFAA 2026) hosted at Jeju Island. Photos below
-        are from the conference venue and reception.
+        Advanced Applications (DASFAA 2026) on Jeju Island.
 
         <div class="grid gap-6 md:grid-cols-2 mt-6">
           <figure>

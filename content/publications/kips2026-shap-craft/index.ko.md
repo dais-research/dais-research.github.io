@@ -55,7 +55,7 @@ show_related: false
          alt="ASK 2026 학회장에서 동상 수여 후 기념 촬영"
          class="rounded-lg shadow-md w-full" />
     <figcaption class="text-sm text-center mt-2 opacity-75">
-      ASK 2026 학회장에서 — (좌) 최효은 학부 인턴, (우) 이웅희 PI
+      ASK 2026 학회장에서 — (좌) 최효은 학부 인턴, (우) 이웅희
     </figcaption>
   </figure>
   <figure>

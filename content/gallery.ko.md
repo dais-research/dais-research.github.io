@@ -66,7 +66,7 @@ sections:
                  alt="ASK 2026 학회장에서 동상 수여 후 기념 촬영"
                  class="rounded-lg shadow-md w-full" />
             <figcaption class="text-sm text-center mt-2 opacity-75">
-              ASK 2026 학회장에서 — (좌) 최효은 학부 인턴, (우) 이웅희 PI
+              ASK 2026 학회장에서 — (좌) 최효은 학부 인턴, (우) 이웅희
             </figcaption>
           </figure>
 
@@ -83,14 +83,13 @@ sections:
         ## DASFAA 2026 — 제주
         *2026년 4월 27–30일 · 제주신화월드*
 
-        DAIS 연구 그룹은 31th International Conference on Database Systems for
-        Advanced Applications (DASFAA 2026) 학회에 참가하였습니다. 아래 사진은
-        학회장과 리셉션 현장에서 촬영한 것입니다.
+        DAIS 연구 그룹은 31st International Conference on Database Systems for
+        Advanced Applications (DASFAA 2026) 학회에 참가하였습니다.
 
         <div class="grid gap-6 md:grid-cols-2 mt-6">
           <figure>
             <img src="/media/gallery/dasfaa2026-pi.webp"
-                 alt="DASFAA 2026 학회장 입구의 이웅희 PI"
+                 alt="DASFAA 2026 학회장 입구의 이웅희"
                  class="rounded-lg shadow-md w-full" />
             <figcaption class="text-sm text-center mt-2 opacity-75">
               DASFAA 2026 환영 배너 앞에서
