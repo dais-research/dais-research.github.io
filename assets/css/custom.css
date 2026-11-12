@@ -7,6 +7,110 @@
 @media (width >= 64rem) {
   .prose.lg\:prose-xl {
     font-size: 1rem;
-    line-height: 1.7;
+    line-height: 1.6;
   }
+}
+
+/* 문단과 목록 간격
+   테마 값은 20px 글씨에 맞춰져 있어 16px 에서는 떠 보인다. 특히 목록은 항목
+   사이가 19.2px 라 줄간격(25.6px)과 비슷해, 같은 항목의 둘째 줄인지 다음
+   항목인지 구분이 안 됐다. 항목 사이를 줄이고 목록 전체는 앞뒤 문단과
+   떨어뜨려 덩어리로 보이게 한다. */
+.prose p {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+.prose li {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
+.prose ul,
+.prose ol {
+  margin-top: 0.4em;
+  margin-bottom: 0.5em;
+}
+
+/* 목록 바로 앞 문단
+   문단 아래 여백(1em)과 목록 위 여백이 마진 상쇄로 겹쳐, 큰 쪽인 1em 만
+   남는다. 목록 쪽만 줄여서는 간격이 변하지 않으므로 문단 쪽도 줄인다.
+   목록은 앞 문장에 딸린 내용이라 문단 사이보다 좁아야 한다. */
+.prose p:has(+ ul),
+.prose p:has(+ ol) {
+  margin-bottom: 0.4em;
+}
+
+/* ───────────────────────────────────────────────────────────────────────────
+   헤더 로고
+   테마는 로고 SVG를 height:1em 으로 잡는다. 정사각 마크 하나만 쓸 때의 값이라,
+   글자가 들어간 가로형 로고에는 너무 작다(글자가 본문보다 작아진다).
+   ─────────────────────────────────────────────────────────────────────────── */
+.navbar-brand svg {
+  height: 2.2em;
+}
+
+/* 로고의 파란 점. 브랜드 규격서(dais-wiki/guides/presentation/brand/README.md)가
+   밝은 배경 #2563eb, 어두운 배경 #60a5fa 로 정해 두었다. 마크 획과 글자는
+   currentColor 라 헤더 글자색을 따라간다. */
+:root { --dais-dot: #2563eb; }
+:root:not([data-theme="light"]) {
+  @media (prefers-color-scheme: dark) { --dais-dot: #60a5fa; }
+}
+:root[data-theme="dark"] { --dais-dot: #60a5fa; }
+
+/* ───────────────────────────────────────────────────────────────────────────
+   갤러리 사진 폭
+   테마의 마크다운 블록은 본문을 max-w-prose(약 65자) 안에 가둔다. 글에는 맞는
+   폭이지만 사진을 2열로 놓으면 한 장이 300px 남짓이라 너무 작다. 사진 묶음만
+   글 칸 밖으로 꺼내 가운데 정렬한다. 글은 원래 폭을 지킨다.
+   ─────────────────────────────────────────────────────────────────────────── */
+.media-wide {
+  position: relative;
+  left: 50%;
+  width: min(900px, 92vw);
+  transform: translateX(-50%);
+}
+
+/* 사진 높이를 화면 높이로 묶는다. 학회 한 건(제목 + 설명 + 사진 + 캡션)이
+   한 화면에 들어와야 한다. 폭만 정하면 세로로 긴 사진이 화면을 넘긴다. */
+.media-wide img {
+  max-height: 42vh;
+  width: auto;
+  max-width: 100%;
+  margin-inline: auto;
+}
+
+/* ───────────────────────────────────────────────────────────────────────────
+   한국어 줄바꿈
+   브라우저는 한글을 글자 단위로 끊는다("데이터 처리 파이프라인" 이 "파이프라
+   인" 으로 갈라진다). keep-all 로 띄어쓰기에서만 끊게 한다. 긴 URL처럼 공백이
+   없는 문자열은 넘치므로 overflow-wrap 으로 예외를 둔다. 영문 쪽은 단어 단위로
+   끊는 지금 동작이 맞으므로 한국어에만 건다.
+   ─────────────────────────────────────────────────────────────────────────── */
+html[lang^="ko"] body {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+/* ───────────────────────────────────────────────────────────────────────────
+   주소 뒤 지도 바로가기
+   네이버지도·카카오맵 공식 앱 아이콘. 글자 크기를 따라가도록 em 으로 잡는다.
+   어느 지도인지는 alt 와 title 이 말해 준다.
+   ─────────────────────────────────────────────────────────────────────────── */
+.map-chip {
+  display: inline-block;
+  margin-left: 0.45em;
+  vertical-align: -0.28em;
+  line-height: 0;
+  opacity: 0.85;
+  transition: opacity 0.15s;
+}
+.map-chip:hover {
+  opacity: 1;
+}
+.map-chip img {
+  width: 1.5em;
+  height: 1.5em;
+  margin: 0;
+  border-radius: 0.3em;
+  display: block;
 }

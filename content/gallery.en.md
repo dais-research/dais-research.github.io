@@ -18,7 +18,7 @@ sections:
         [*Brightness-Band Projection for Residual Silicon Segmentation in
         C/SiC Composites*](/publications/ack2026-csic-si-seg/) (in Korean).
 
-        <div class="grid gap-6 md:grid-cols-2 mt-6">
+        <div class="media-wide grid gap-6 md:grid-cols-2 mt-6">
           <figure>
             <img src="/media/gallery/ack2026-award.webp"
                  alt="Yunyeong Ju holding the award certificate in front of the ACK 2026 banner"
@@ -43,7 +43,7 @@ sections:
 
         DAIS group members attended KDD 2026 together.
 
-        <figure class="mt-6">
+        <figure class="media-wide mt-6">
           <img src="/media/gallery/kdd2026-group.webp"
                alt="Woonghee Lee, Dongwan Yoo, and Yunyeong Ju at KDD 2026"
                class="rounded-lg shadow-md w-full" />
@@ -61,7 +61,7 @@ sections:
         (Paper:
         [Comparing SHAP and CRAFT Across Architectures for PEMFC SEM Images](/publications/kips2026-shap-craft/))
 
-        <div class="grid gap-6 md:grid-cols-2 mt-6">
+        <div class="media-wide grid gap-6 md:grid-cols-2 mt-6">
           <figure>
             <img src="/media/gallery/ask2026-award.webp"
                  alt="At the ASK 2026 venue after the award ceremony"
@@ -88,7 +88,7 @@ sections:
         DAIS attended the 31st International Conference on Database Systems for
         Advanced Applications (DASFAA 2026) on Jeju Island.
 
-        <div class="grid gap-6 md:grid-cols-2 mt-6">
+        <div class="media-wide grid gap-6 md:grid-cols-2 mt-6">
           <figure>
             <img src="/media/gallery/dasfaa2026-pi.webp"
                  alt="Woonghee Lee at DASFAA 2026 welcome banner"

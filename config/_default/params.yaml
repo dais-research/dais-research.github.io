@@ -88,6 +88,10 @@ hugoblox:
     sticky: true
     # Menu alignment
     align: center # left | center | right
+    # 헤더 로고는 가로형(마크+글자)이라 글자가 이미 들어 있다. 제목을 함께
+    # 켜면 'DAIS' 가 두 번 나온다.
+    show_logo: true
+    show_title: false
     # Feature toggles
     search: true
     theme_toggle: true

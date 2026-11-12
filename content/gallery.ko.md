@@ -17,7 +17,7 @@ sections:
         (논문: [밝기 밴드 투영을 이용한 C/SiC 복합재 잔류 실리콘
         세그멘테이션](/publications/ack2026-csic-si-seg/))
 
-        <div class="grid gap-6 md:grid-cols-2 mt-6">
+        <div class="media-wide grid gap-6 md:grid-cols-2 mt-6">
           <figure>
             <img src="/media/gallery/ack2026-award.webp"
                  alt="ACK 2026 행사 배너 앞에서 산학연협동우수상 상장을 든 주윤영 학부 인턴"
@@ -42,7 +42,7 @@ sections:
 
         DAIS 연구 그룹 구성원들이 KDD 2026에 함께 참가했습니다.
 
-        <figure class="mt-6">
+        <figure class="media-wide mt-6">
           <img src="/media/gallery/kdd2026-group.webp"
                alt="KDD 2026에 참가한 이웅희, 유동완, 주윤영"
                class="rounded-lg shadow-md w-full" />
@@ -60,7 +60,7 @@ sections:
         [PEMFC 촉매 SEM 이미지 열화 분류에 대한 SHAP 및 CRAFT의 모델 구조별
         비교 분석](/publications/kips2026-shap-craft/))
 
-        <div class="grid gap-6 md:grid-cols-2 mt-6">
+        <div class="media-wide grid gap-6 md:grid-cols-2 mt-6">
           <figure>
             <img src="/media/gallery/ask2026-award.webp"
                  alt="ASK 2026 학회장에서 동상 수여 후 기념 촬영"
@@ -86,7 +86,7 @@ sections:
         DAIS 연구 그룹은 31st International Conference on Database Systems for
         Advanced Applications (DASFAA 2026) 학회에 참가하였습니다.
 
-        <div class="grid gap-6 md:grid-cols-2 mt-6">
+        <div class="media-wide grid gap-6 md:grid-cols-2 mt-6">
           <figure>
             <img src="/media/gallery/dasfaa2026-pi.webp"
                  alt="DASFAA 2026 학회장 입구의 이웅희"
