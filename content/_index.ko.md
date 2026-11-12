@@ -41,43 +41,60 @@ sections:
       columns: '1'
 
   # ─────────────────────────────────────────────────────────────────────────
-  # AWARDS / RECOGNITION
+  # NEWS (수상·논문 채택 등, 최신순)
   # ─────────────────────────────────────────────────────────────────────────
   - block: markdown
-    id: awards
+    id: news
     content:
-      title: '최근 수상'
+      title: '연구 그룹 뉴스'
       subtitle: ''
       text: |-
-        <div class="grid gap-8 md:grid-cols-2 mt-6 items-center">
+        <p class="text-sm font-semibold opacity-60 mb-3">2026년 11월 6일</p>
+
+        <div class="grid gap-8 md:grid-cols-2 items-center">
           <div>
             <figure>
-              <img src="/media/gallery/ask2026-award.webp"
-                   alt="ASK 2026 학회장에서 동상 수여 후 기념 촬영 — 최효은 학생과 이웅희 PI"
+              <img src="/media/gallery/ack2026-award.webp"
+                   alt="ACK 2026 행사 배너 앞에서 산학연협동우수상 상장을 든 주윤영 학부 인턴"
                    class="rounded-lg shadow-md w-full" />
               <figcaption class="text-xs text-center mt-2 opacity-75">
-                ASK 2026 시상식 후
+                ACK 2026 수상 후 — 주윤영 학부 인턴
               </figcaption>
             </figure>
           </div>
           <div>
-            <p class="text-xl font-semibold mb-3">🏆 동상 (Bronze Award)</p>
+            <p class="text-xl font-semibold mb-3">🏆 산학연협동우수상 수상</p>
             <p class="mb-2">
-              <strong>학부생·고등학생 논문경진대회</strong><br/>
-              ASK 2026 (한국정보처리학회 연차 학술발표대회)<br/>
-              <span class="opacity-75">2026년 5월 21일, 강릉</span>
+              <strong>우수논문상</strong><br/>
+              ACK 2026 (한국정보처리학회 추계 학술발표대회)<br/>
+              <span class="opacity-75">2026년 11월 6일, 서울</span>
             </p>
             <p class="mb-2">
-              수상자: <strong>최효은</strong> (충남대학교, 학부 인턴)
+              수상자: <strong>주윤영</strong> (한국기술교육대학교, 학부 인턴),
+              장승연, 김수현, 이웅희 (한국에너지기술연구원)
             </p>
             <p class="text-sm opacity-90">
-              논문: <em>PEMFC 촉매 SEM 이미지 열화 분류에 대한 SHAP 및 CRAFT의 모델 구조별 비교 분석</em>
+              논문: <em>밝기 밴드 투영을 이용한 C/SiC 복합재 잔류 실리콘 세그멘테이션</em>
             </p>
             <p class="mt-3">
-              <a href="/publications/kips2026-shap-craft/" class="underline">논문 자세히 보기 →</a>
+              <a href="/publications/ack2026-csic-si-seg/" class="underline">논문 자세히 보기 →</a>
             </p>
           </div>
         </div>
+
+        <hr class="my-10 opacity-20" />
+
+        <p class="text-sm font-semibold opacity-60 mb-2">2026년 5월 21일</p>
+
+        <p class="mb-1">
+          🏆 <strong>동상</strong> — ASK 2026 학부생·고등학생 논문경진대회
+          (한국정보처리학회 연차 학술발표대회, 강릉).
+          수상자 <strong>최효은</strong> (충남대학교, 학부 인턴).
+        </p>
+        <p class="text-sm opacity-90">
+          논문: <em>PEMFC 촉매 SEM 이미지 열화 분류에 대한 SHAP 및 CRAFT의 모델 구조별 비교 분석</em>
+          · <a href="/publications/kips2026-shap-craft/" class="underline">자세히 보기 →</a>
+        </p>
     design:
       columns: '1'
 
@@ -247,14 +264,14 @@ sections:
       title: '갤러리'
       subtitle: ''
       text: |-
-        ### KDD 2026 — 제주 · 2026년 8월
+        ### ACK 2026 — 서울 · 2026년 11월
 
         <figure class="mt-4">
-          <img src="/media/gallery/kdd2026-group.webp"
-               alt="KDD 2026에 참가한 이웅희, 유동완, 주윤영"
+          <img src="/media/gallery/ack2026-group.webp"
+               alt="ACK 2026 행사 배너 앞의 주윤영, 이웅희, 유동완"
                class="rounded-lg shadow-md w-full" />
           <figcaption class="text-xs text-center mt-2 opacity-75">
-            (왼쪽부터) 이웅희, 유동완, 주윤영
+            (왼쪽부터) 주윤영, 이웅희, 유동완
           </figcaption>
         </figure>
 

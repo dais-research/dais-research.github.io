@@ -48,43 +48,62 @@ sections:
       columns: '1'
 
   # ─────────────────────────────────────────────────────────────────────────
-  # AWARDS / RECOGNITION
+  # NEWS (awards, paper acceptances; newest first)
   # ─────────────────────────────────────────────────────────────────────────
   - block: markdown
-    id: awards
+    id: news
     content:
-      title: 'Recent Award'
+      title: 'Group News'
       subtitle: ''
       text: |-
-        <div class="grid gap-8 md:grid-cols-2 mt-6 items-center">
+        <p class="text-sm font-semibold opacity-60 mb-3">November 6, 2026</p>
+
+        <div class="grid gap-8 md:grid-cols-2 items-center">
           <div>
             <figure>
-              <img src="/media/gallery/ask2026-award.webp"
-                   alt="Hyoeun Choi and Woonghee Lee at the ASK 2026 award ceremony"
+              <img src="/media/gallery/ack2026-award.webp"
+                   alt="Yunyeong Ju holding the award certificate in front of the ACK 2026 banner"
                    class="rounded-lg shadow-md w-full" />
               <figcaption class="text-xs text-center mt-2 opacity-75">
-                After the ASK 2026 award ceremony
+                After the ACK 2026 award — Yunyeong Ju
               </figcaption>
             </figure>
           </div>
           <div>
-            <p class="text-xl font-semibold mb-3">🏆 Bronze Award</p>
+            <p class="text-xl font-semibold mb-3">🏆 Industry-Academia-Research Collaboration Excellence Award</p>
             <p class="mb-2">
-              <strong>Undergraduate / High-School Paper Competition</strong><br/>
-              ASK 2026 (Annual Symposium of the Korea Information Processing Society)<br/>
-              <span class="opacity-75">May 21, 2026, Gangneung, South Korea</span>
+              <strong>Best Paper Award</strong><br/>
+              ACK 2026 (Annual Conference of KIPS, Korea Information Processing Society)<br/>
+              <span class="opacity-75">November 6, 2026, Seoul, South Korea</span>
             </p>
             <p class="mb-2">
-              Awardee: <strong>Hyoeun Choi</strong> (Chungnam National University, research intern)
+              Awardees: <strong>Yunyeong Ju</strong> (Korea University of Technology and Education, research intern),
+              Seungyeon Jang, Soohyun Kim, Woonghee Lee (Korea Institute of Energy Research)
             </p>
             <p class="text-sm opacity-90">
-              Paper: <em>Comparing SHAP and CRAFT Across Architectures for PEMFC SEM Images</em>
+              Paper: <em>Brightness-Band Projection for Residual Silicon Segmentation in C/SiC Composites</em>
+              <span class="opacity-75">(in Korean)</span>
             </p>
             <p class="mt-3">
-              <a href="/publications/kips2026-shap-craft/" class="underline">View paper →</a>
+              <a href="/publications/ack2026-csic-si-seg/" class="underline">View paper →</a>
             </p>
           </div>
         </div>
+
+        <hr class="my-10 opacity-20" />
+
+        <p class="text-sm font-semibold opacity-60 mb-2">May 21, 2026</p>
+
+        <p class="mb-1">
+          🏆 <strong>Bronze Award</strong> — Undergraduate / High-School Paper
+          Competition at ASK 2026 (Annual Symposium of the Korea Information
+          Processing Society, Gangneung).
+          Awardee <strong>Hyoeun Choi</strong> (Chungnam National University, research intern).
+        </p>
+        <p class="text-sm opacity-90">
+          Paper: <em>Comparing SHAP and CRAFT Across Architectures for PEMFC SEM Images</em>
+          · <a href="/publications/kips2026-shap-craft/" class="underline">View paper →</a>
+        </p>
     design:
       columns: '1'
 
@@ -229,14 +248,14 @@ sections:
       title: 'Gallery'
       subtitle: ''
       text: |-
-        ### KDD 2026 — Jeju Island · August 2026
+        ### ACK 2026 — Seoul, South Korea · November 2026
 
         <figure class="mt-4">
-          <img src="/media/gallery/kdd2026-group.webp"
-               alt="Woonghee Lee, Dongwan Yoo, and Yoonyoung Joo at KDD 2026"
+          <img src="/media/gallery/ack2026-group.webp"
+               alt="Yunyeong Ju, Woonghee Lee, and Dongwan Yoo in front of the ACK 2026 banner"
                class="rounded-lg shadow-md w-full" />
           <figcaption class="text-xs text-center mt-2 opacity-75">
-            From left: Woonghee Lee, Dongwan Yoo, and Yoonyoung Joo
+            From left: Yunyeong Ju, Woonghee Lee, and Dongwan Yoo
           </figcaption>
         </figure>
 
