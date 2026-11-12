@@ -31,8 +31,9 @@ sections:
         - **I — Intelligence.** 대규모 문서·데이터에 대한 분류·요약·검색·추천 모델링,
           실험·공정 데이터에 대한 예측·피팅 모델, 도메인 지식과 결합한 강건한 학습
           방법을 다룹니다.
-        - **S — System.** 모델과 분석 결과를 다른 사람이 실제로 사용할 수 있는 형태로
-          서비스화하고, 반복 업무의 자동화와 재현 가능한 분석 코드 정리를 지향합니다.
+        - **S — System.** 모델과 분석 결과를 다른 연구자가 자신의 데이터에 적용할 수
+          있는 연구 도구로 만들고, 재현 가능한 분석 코드와 데이터 처리 파이프라인으로
+          정리합니다.
 
         KIER 내부의 여러 부서, 그리고 외부 기관과 협력하여 연구를 진행하며, 개별 과제에
         국한되지 않고 다른 과제에서도 재사용 가능한 코드와 워크플로우의 형태로 정리하는
@@ -81,6 +82,27 @@ sections:
             </p>
           </div>
         </div>
+
+        <hr class="my-10 opacity-20" />
+
+        <p class="text-sm font-semibold opacity-60 mb-2">2026년 11월 3일</p>
+
+        <p class="text-xl font-semibold mb-3">WSDM 2027 Findings 채택 🎉</p>
+        <p class="mb-2">
+          우리 연구가 <strong><a href="https://wsdm-conference.org/2027/" target="_blank" rel="noopener" class="underline">WSDM 2027</a></strong> Findings 트랙에
+          채택되었습니다!
+        </p>
+        <ul class="mb-2">
+          <li>한국정보과학회 최우수학술대회 / BK21 인정 IF=3</li>
+          <li>채택률 합계 <strong>28.4%</strong>
+            (main track 15.8%, findings track 12.6%)</li>
+        </ul>
+        <p class="text-sm opacity-90">
+          논문: <em>Temporal Structural Entropy for Social Event Detection: When,
+          Why, and at What Scale Temporal Information Helps</em><br/>
+          이웅희(한국에너지기술연구원), 이재영, 김영훈(한양대학교) ·
+          <span class="nowrap">2027년 2월 15-19일</span>, 홍콩
+        </p>
 
         <hr class="my-10 opacity-20" />
 
@@ -178,10 +200,10 @@ sections:
       text: |-
         ### Principal Investigator (PI)
 
-        <div class="grid gap-8 md:grid-cols-3 mt-6 mb-12">
-          <div class="text-center">
+        <div class="media-wide flex justify-center mt-6 mb-12">
+          <div class="text-center w-56">
             <img src="/media/authors/woongheelee.webp" alt="이웅희"
-                 class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
+                 class="rounded-full w-32 h-32 object-cover mx-auto mb-4 shadow-md" />
             <h4 class="text-xl font-semibold mb-1">이웅희, Ph.D.</h4>
             <p class="text-sm opacity-75 mb-2">선임연구원</p>
             <p class="text-sm">
@@ -197,12 +219,12 @@ sections:
 
         ### 학부 인턴 (Undergraduate Interns)
 
-        <div class="grid gap-8 md:grid-cols-3 mt-6 mb-12">
-          <div class="text-center">
+        <div class="media-wide flex flex-wrap justify-center gap-10 mt-6 mb-12">
+          <div class="text-center w-56">
             <img src="/media/authors/dongwan.webp" alt="유동완"
-                 class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
+                 class="rounded-full w-32 h-32 object-cover mx-auto mb-4 shadow-md" />
             <h4 class="text-xl font-semibold mb-1">유동완</h4>
-            <p class="text-sm opacity-75 mb-2">학부 인턴 (2026-07 ~ 2026-12)</p>
+            <p class="text-sm opacity-75 mb-2">학부 인턴 <span class="nowrap">(2026-07 ~ 2026-12)</span></p>
             <p class="text-sm">
               충남대학교<br/>
               인공지능학과<br/>
@@ -214,11 +236,11 @@ sections:
             </p>
           </div>
 
-          <div class="text-center">
+          <div class="text-center w-56">
             <img src="/media/authors/yunyeong.webp" alt="주윤영"
-                 class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
+                 class="rounded-full w-32 h-32 object-cover mx-auto mb-4 shadow-md" />
             <h4 class="text-xl font-semibold mb-1">주윤영</h4>
-            <p class="text-sm opacity-75 mb-2">학부 인턴 (2026-07 ~ 2026-12)</p>
+            <p class="text-sm opacity-75 mb-2">학부 인턴 <span class="nowrap">(2026-07 ~ 2026-12)</span></p>
             <p class="text-sm">
               한국기술교육대학교<br/>
               컴퓨터공학부<br/>
@@ -233,12 +255,12 @@ sections:
 
         ### 이전 구성원 (Alumni)
 
-        <div class="grid gap-8 md:grid-cols-3 mt-6">
-          <div class="text-center">
+        <div class="media-wide flex flex-wrap justify-center gap-10 mt-6">
+          <div class="text-center w-56">
             <img src="/media/authors/hyoeun.webp" alt="최효은"
-                 class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
+                 class="rounded-full w-32 h-32 object-cover mx-auto mb-4 shadow-md" />
             <h4 class="text-xl font-semibold mb-1">최효은</h4>
-            <p class="text-sm opacity-75 mb-2">학부 인턴 (2026-03 ~ 2026-06)</p>
+            <p class="text-sm opacity-75 mb-2">학부 인턴 <span class="nowrap">(2026-03 ~ 2026-06)</span></p>
             <p class="text-sm">
               충남대학교<br/>
               컴퓨터융합학부<br/>
@@ -264,20 +286,23 @@ sections:
       title: '갤러리'
       subtitle: ''
       text: |-
-        ### ACK 2026 — 서울 · 2026년 11월
-
-        <figure class="mt-4">
-          <img src="/media/gallery/ack2026-group.webp"
-               alt="ACK 2026 행사 배너 앞의 주윤영, 이웅희, 유동완"
-               class="rounded-lg shadow-md w-full" />
-          <figcaption class="text-xs text-center mt-2 opacity-75">
-            (왼쪽부터) 주윤영, 이웅희, 유동완
-          </figcaption>
-        </figure>
-
-        <p class="mt-6 text-right">
-          <a href="/gallery/" class="underline">갤러리 전체 보기 →</a>
-        </p>
+        <div class="grid gap-8 md:grid-cols-2 items-center">
+          <div>
+            <figure>
+              <img src="/media/gallery/ack2026-group.webp"
+                   alt="ACK 2026 행사 배너 앞의 주윤영, 이웅희, 유동완"
+                   class="rounded-lg shadow-md w-full" />
+              <figcaption class="text-xs text-center mt-2 opacity-75">
+                (왼쪽부터) 주윤영, 이웅희, 유동완
+              </figcaption>
+            </figure>
+          </div>
+          <div>
+            <p class="text-xl font-semibold mb-2">ACK 2026 — 서울</p>
+            <p class="opacity-75 mb-4">2026년 11월</p>
+            <p><a href="/gallery/" class="underline">갤러리 전체 보기 →</a></p>
+          </div>
+        </div>
     design:
       columns: '1'
 
@@ -290,7 +315,13 @@ sections:
       title: '연락처'
       subtitle: ''
       text: |-
-        대전광역시 유성구 가정로 152 (34129)
+        <p>한국에너지기술연구원 · 대전광역시 유성구 가정로 152 (34129)<a
+        href="https://map.naver.com/p/search/%ED%95%9C%EA%B5%AD%EC%97%90%EB%84%88%EC%A7%80%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%9B%90" target="_blank" rel="noopener" class="map-chip"
+        title="네이버 지도에서 보기"><img src="/media/icons/naver-map.webp" width="96"
+        height="96" alt="네이버 지도에서 보기" loading="lazy" /></a><a
+        href="https://map.kakao.com/?q=%ED%95%9C%EA%B5%AD%EC%97%90%EB%84%88%EC%A7%80%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%9B%90" target="_blank" rel="noopener" class="map-chip"
+        title="카카오맵에서 보기"><img src="/media/icons/kakao-map.webp" width="96"
+        height="96" alt="카카오맵에서 보기" loading="lazy" /></a></p>
 
         <p>
         <a href="mailto:woongheelee&#64;kier&#46;re&#46;kr" class="inline-flex items-center gap-1 underline">메일 보내기 ↗</a>
@@ -298,11 +329,12 @@ sections:
         <a href="https://calendar.google.com/calendar/embed?src=gongdol2pooh%40gmail.com&ctz=Asia%2FSeoul" target="_blank" rel="noopener" class="inline-flex items-center gap-1 underline">미팅·논의 가능 시간대 보기 ↗</a>
         </p>
 
-        미팅이나 공동연구 논의가 필요하시면 메일로 연락해 주세요.
+        미팅이나 공동연구 논의가 필요하시면 메일로 연락 바랍니다.
 
         **학연협동과정·인턴 지원 문의**
 
-        학연협동과정(석·박사) 진학, 학부 인턴, 장기현장실습에 관심 있는 분은 CV와 성적증명서를 관심 연구 분야와 함께 메일로 보내주세요.
+        학연협동과정(석·박사) 진학, 학부 인턴, 장기현장실습에 관심 있는 분은 CV,
+        성적증명서, 연구계획서를 메일로 보내주세요.
     design:
       columns: '1'
 ---

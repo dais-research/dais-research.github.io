@@ -37,9 +37,9 @@ sections:
           recommendation over large document and data collections; prediction and
           fitting models for experimental and process data; robust learning methods
           combined with domain knowledge.
-        - **S — System.** Turning models and analyses into things other people can
-          actually use; automating repetitive work and keeping analysis code
-          reproducible.
+        - **S — System.** Turning models and analyses into research tools other
+          researchers can apply to their own data, with reproducible analysis code
+          and data-processing pipelines.
 
         We collaborate with other groups within KIER and with external partners,
         organizing our work as reusable code and workflows rather than one-off
@@ -89,6 +89,28 @@ sections:
             </p>
           </div>
         </div>
+
+        <hr class="my-10 opacity-20" />
+
+        <p class="text-sm font-semibold opacity-60 mb-2">November 3, 2026</p>
+
+        <p class="text-xl font-semibold mb-3">Accepted to WSDM 2027 Findings 🎉</p>
+        <p class="mb-2">
+          Our work was accepted to the Findings track of
+          <strong><a href="https://wsdm-conference.org/2027/" target="_blank" rel="noopener" class="underline">WSDM 2027</a></strong>.
+        </p>
+        <ul class="mb-2">
+          <li>KIISE top-tier conference / BK21 impact factor 3</li>
+          <li>Combined acceptance rate <strong>28.4%</strong>
+            (main track 15.8%, findings track 12.6%)</li>
+        </ul>
+        <p class="text-sm opacity-90">
+          Paper: <em>Temporal Structural Entropy for Social Event Detection: When,
+          Why, and at What Scale Temporal Information Helps</em><br/>
+          Woonghee Lee (Korea Institute of Energy Research), Jaeyoung Lee,
+          Younghoon Kim (Hanyang University) ·
+          <span class="nowrap">February 15-19, 2027</span>, Hong Kong
+        </p>
 
         <hr class="my-10 opacity-20" />
 
@@ -166,10 +188,10 @@ sections:
       text: |-
         ### Principal Investigator
 
-        <div class="grid gap-8 md:grid-cols-3 mt-6 mb-12">
-          <div class="text-center">
+        <div class="media-wide flex justify-center mt-6 mb-12">
+          <div class="text-center w-56">
             <img src="/media/authors/woongheelee.webp" alt="Woonghee Lee"
-                 class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
+                 class="rounded-full w-32 h-32 object-cover mx-auto mb-4 shadow-md" />
             <h4 class="text-xl font-semibold mb-1">Woonghee Lee, Ph.D.</h4>
             <p class="text-sm opacity-75 mb-2">Senior Researcher</p>
             <p class="text-sm">
@@ -184,12 +206,12 @@ sections:
 
         ### Undergraduate Interns
 
-        <div class="grid gap-8 md:grid-cols-3 mt-6 mb-12">
-          <div class="text-center">
+        <div class="media-wide flex flex-wrap justify-center gap-10 mt-6 mb-12">
+          <div class="text-center w-56">
             <img src="/media/authors/yunyeong.webp" alt="Yunyeong Ju"
-                 class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
+                 class="rounded-full w-32 h-32 object-cover mx-auto mb-4 shadow-md" />
             <h4 class="text-xl font-semibold mb-1">Yunyeong Ju</h4>
-            <p class="text-sm opacity-75 mb-2">Research Intern (2026-07 – 2026-12)</p>
+            <p class="text-sm opacity-75 mb-2">Research Intern <span class="nowrap">(2026-07 – 2026-12)</span></p>
             <p class="text-sm">
               Korea University of Technology and Education (KOREATECH)<br/>
               <span class="opacity-75">Computer Vision</span>
@@ -200,11 +222,11 @@ sections:
             </p>
           </div>
 
-          <div class="text-center">
+          <div class="text-center w-56">
             <img src="/media/authors/dongwan.webp" alt="Dongwan Yoo"
-                 class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
+                 class="rounded-full w-32 h-32 object-cover mx-auto mb-4 shadow-md" />
             <h4 class="text-xl font-semibold mb-1">Dongwan Yoo</h4>
-            <p class="text-sm opacity-75 mb-2">Research Intern (2026-07 – 2026-12)</p>
+            <p class="text-sm opacity-75 mb-2">Research Intern <span class="nowrap">(2026-07 – 2026-12)</span></p>
             <p class="text-sm">
               Chungnam National University<br/>
               <span class="opacity-75">LLM Architecture · Machine Unlearning</span>
@@ -218,12 +240,12 @@ sections:
 
         ### Alumni
 
-        <div class="grid gap-8 md:grid-cols-3 mt-6">
-          <div class="text-center">
+        <div class="media-wide flex flex-wrap justify-center gap-10 mt-6">
+          <div class="text-center w-56">
             <img src="/media/authors/hyoeun.webp" alt="Hyoeun Choi"
-                 class="rounded-full w-40 h-40 object-cover mx-auto mb-4 shadow-md" />
+                 class="rounded-full w-32 h-32 object-cover mx-auto mb-4 shadow-md" />
             <h4 class="text-xl font-semibold mb-1">Hyoeun Choi</h4>
-            <p class="text-sm opacity-75 mb-2">Research Intern (2026-03 – 2026-06)</p>
+            <p class="text-sm opacity-75 mb-2">Research Intern <span class="nowrap">(2026-03 – 2026-06)</span></p>
             <p class="text-sm">
               Chungnam National University<br/>
               <span class="opacity-75">Computer vision · XAI</span>
@@ -248,20 +270,23 @@ sections:
       title: 'Gallery'
       subtitle: ''
       text: |-
-        ### ACK 2026 — Seoul, South Korea · November 2026
-
-        <figure class="mt-4">
-          <img src="/media/gallery/ack2026-group.webp"
-               alt="Yunyeong Ju, Woonghee Lee, and Dongwan Yoo in front of the ACK 2026 banner"
-               class="rounded-lg shadow-md w-full" />
-          <figcaption class="text-xs text-center mt-2 opacity-75">
-            From left: Yunyeong Ju, Woonghee Lee, and Dongwan Yoo
-          </figcaption>
-        </figure>
-
-        <p class="mt-6 text-right">
-          <a href="/en/gallery/" class="underline">View the full gallery →</a>
-        </p>
+        <div class="grid gap-8 md:grid-cols-2 items-center">
+          <div>
+            <figure>
+              <img src="/media/gallery/ack2026-group.webp"
+                   alt="Yunyeong Ju, Woonghee Lee, and Dongwan Yoo in front of the ACK 2026 banner"
+                   class="rounded-lg shadow-md w-full" />
+              <figcaption class="text-xs text-center mt-2 opacity-75">
+                From left: Yunyeong Ju, Woonghee Lee, and Dongwan Yoo
+              </figcaption>
+            </figure>
+          </div>
+          <div>
+            <p class="text-xl font-semibold mb-2">ACK 2026 — Seoul, South Korea</p>
+            <p class="opacity-75 mb-4">November 2026</p>
+            <p><a href="/en/gallery/" class="underline">View the full gallery →</a></p>
+          </div>
+        </div>
     design:
       columns: '1'
 
@@ -274,7 +299,14 @@ sections:
       title: 'Contact'
       subtitle: ''
       text: |-
-        152 Gajeong-ro, Yuseong-gu, Daejeon 34129, South Korea
+        <p>Korea Institute of Energy Research · 152 Gajeong-ro, Yuseong-gu,
+        Daejeon 34129, South Korea<a
+        href="https://map.naver.com/p/search/%ED%95%9C%EA%B5%AD%EC%97%90%EB%84%88%EC%A7%80%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%9B%90" target="_blank" rel="noopener" class="map-chip"
+        title="Open in Naver Map"><img src="/media/icons/naver-map.webp" width="96"
+        height="96" alt="Open in Naver Map" loading="lazy" /></a><a
+        href="https://map.kakao.com/?q=%ED%95%9C%EA%B5%AD%EC%97%90%EB%84%88%EC%A7%80%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%9B%90" target="_blank" rel="noopener" class="map-chip"
+        title="Open in Kakao Map"><img src="/media/icons/kakao-map.webp" width="96"
+        height="96" alt="Open in Kakao Map" loading="lazy" /></a></p>
 
         <p>
         <a href="mailto:woongheelee&#64;kier&#46;re&#46;kr" class="inline-flex items-center gap-1 underline">Send email ↗</a>
