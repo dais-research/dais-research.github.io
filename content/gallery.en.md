@@ -9,22 +9,51 @@ sections:
       title: 'Gallery'
       subtitle: 'Conferences, lab life, and field activities'
       text: |-
+        ## ACK 2026 — Seoul, South Korea
+        *November 6, 2026 · Sejong University*
+
+        DAIS attended the Annual Conference of the Korea Information Processing
+        Society (ACK 2026). Our undergraduate intern Yunyeong Ju received the
+        **Industry-Academia-Research Collaboration Excellence Award** for the paper
+        [*Brightness-Band Projection for Residual Silicon Segmentation in
+        C/SiC Composites*](/publications/ack2026-csic-si-seg/) (in Korean).
+
+        <div class="grid gap-6 md:grid-cols-2 mt-6">
+          <figure>
+            <img src="/media/gallery/ack2026-award.webp"
+                 alt="Yunyeong Ju holding the award certificate in front of the ACK 2026 banner"
+                 class="rounded-lg shadow-md w-full" />
+            <figcaption class="text-sm text-center mt-2 opacity-75">
+              After the award — Yunyeong Ju
+            </figcaption>
+          </figure>
+
+          <figure>
+            <img src="/media/gallery/ack2026-group.webp"
+                 alt="Yunyeong Ju, Woonghee Lee, and Dongwan Yoo in front of the ACK 2026 banner"
+                 class="rounded-lg shadow-md w-full" />
+            <figcaption class="text-sm text-center mt-2 opacity-75">
+              From left: Yunyeong Ju, Woonghee Lee, and Dongwan Yoo
+            </figcaption>
+          </figure>
+        </div>
+
         ## KDD 2026 — Jeju Island, South Korea
-        *August 9–13, 2026*
+        *August 9–13, 2026 · ICC Jeju, Seogwipo*
 
         DAIS group members attended KDD 2026 together.
 
         <figure class="mt-6">
           <img src="/media/gallery/kdd2026-group.webp"
-               alt="Woonghee Lee, Dongwan Yoo, and Yoonyoung Joo at KDD 2026"
+               alt="Woonghee Lee, Dongwan Yoo, and Yunyeong Ju at KDD 2026"
                class="rounded-lg shadow-md w-full" />
           <figcaption class="text-sm text-center mt-2 opacity-75">
-            From left: Woonghee Lee, Dongwan Yoo, and Yoonyoung Joo
+            From left: Woonghee Lee, Dongwan Yoo, and Yunyeong Ju
           </figcaption>
         </figure>
 
         ## ASK 2026 — Gangneung, South Korea
-        *May 21–23, 2026*
+        *May 21–23, 2026 · Lakai Sandpine Resort*
 
         DAIS attended the Annual Symposium of the Korea Information Processing
         Society (ASK 2026). Our undergraduate intern Hyoeun Choi received the
@@ -54,7 +83,7 @@ sections:
         </div>
 
         ## DASFAA 2026 — Jeju Island, South Korea
-        *April 27–30, 2026*
+        *April 27–30, 2026 · Jeju Shinhwa World*
 
         DAIS attended the 31st International Conference on Database Systems for
         Advanced Applications (DASFAA 2026) hosted at Jeju Island. Photos below
